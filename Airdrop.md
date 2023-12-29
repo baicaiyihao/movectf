@@ -32,7 +32,7 @@ sui client transfer --to 0x7d4bdbdfd8ce930af7dd18b56d918811d8e5e20e309132130d238
 
 查询目前有2个drop
 
-![image-20231229170722811](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20231229170722811.png)
+![image-20231229170722811](https://github.com/baicaiyihao/movectf/blob/main/1703841553413(1).jpg)
 
 重复上述转移操作
 
