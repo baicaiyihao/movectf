@@ -14,7 +14,7 @@ curl --location --request POST 'https://faucet.devnet.sui.io/gas' --header 'Cont
 
 Vault在https://suiexplorer.com/上获取
 
-![image-20231229170647991](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20231229170647991.png)
+![image-20231229170647991](https://github.com/baicaiyihao/movectf/blob/main/1703841398798.jpg)
 
 获取后用下列命令获取drop
 
@@ -86,7 +86,7 @@ sui client call --package 0x29ca6794c9cb174ca25909efac513d45633555b6919ca6ef78dc
 
 提交Transaction Digest: 7e9eaz4JWvHkFptzyx99du89vP5s8en29GrbJN8mxnZp
 
-![image-20231229170814231](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20231229170814231.png)
+![image-20231229170814231](https://github.com/baicaiyihao/movectf/blob/main/1703841380475.jpg)
 
  
 
